@@ -19,7 +19,7 @@
     "proxy",
     "heroku"
   ],
-  "main": "./lib/anywhere-cors.js",
+  "main": "./lib/cors-anywhere.js",
   "files": [
     "lib/",
     "test/",
